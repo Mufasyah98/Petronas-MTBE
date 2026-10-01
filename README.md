@@ -373,7 +373,7 @@ Mufasyah Consultant
 - Master of Data Science, Universiti Kebangsaan Malaysia (UKM)
 - Microsoft Certified: Azure AI Fundamentals (AI-900), Azure Data Fundamentals (DP-900), Power Platform Fundamentals (PL-900)
 
-📧 mufasyahcons@gmail.com
+📧 fakhrulsyahmi@mufasyahconsultant.com
 
 ---
 
