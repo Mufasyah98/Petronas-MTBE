@@ -1,4 +1,4 @@
-![PC MTBE Digital Productivity programme: SharePoint, Power Apps, Power Automate and Power BI](assets/programme-banner.svg)
+![PC MTBE Digital Productivity programme: SharePoint, Power Apps, Power Automate and Power BI](assets/programme-banner-v2.svg)
 
 # Digital Productivity with Power BI, Power Automate, Power Apps & SharePoint
 
