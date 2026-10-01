@@ -1,3 +1,5 @@
+![PC MTBE Digital Productivity programme: SharePoint, Power Apps, Power Automate and Power BI](assets/programme-banner.svg)
+
 # Digital Productivity with Power BI, Power Automate, Power Apps & SharePoint
 
 > A two-day, hands-on Microsoft Power Platform programme for **PC MTBE**: from manual processes to connected, low-code digital solutions.
@@ -87,6 +89,10 @@ By the end of the programme, participants will be able to:
 ---
 
 ## Repository Contents
+
+<table>
+<tr><td><b>Participant manual</b><br/><a href="PC_MTBE_Power_Platform_Participant_Manual.pdf">Open PDF manual</a></td><td><b>Training dataset</b><br/><a href="PCMTBE_Training_Dataset.xlsx">Download Excel dataset</a></td><td><b>Power BI theme</b><br/><a href="PCMTBE_PowerBI_Theme.json">Open report theme</a></td></tr>
+</table>
 
 ```text
 .
@@ -306,6 +312,8 @@ Avg Days to Complete =
 ## Expected Results
 
 These figures are based on the 12 fictional records, before participants add their own requests.
+
+![Expected results: 12 total requests, 4 completed, 7 open, 33.3% completion rate and 28.0 average days to complete](assets/expected-results.svg)
 
 | Measure | Expected value |
 |---|---|
